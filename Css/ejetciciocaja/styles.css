@@ -1,0 +1,40 @@
+*{
+
+}
+.boxfa{
+    width: 495px;
+    height: 495px;
+    background-color: red;
+    border: 5px dashed black;
+    display: inline-block;
+}
+.childbox{
+    padding: 10px;
+    background-color: aqua;
+    height: 225px;
+    margin: 0px;
+    display: flexbox;
+}
+.box1{
+
+}
+.box2{
+    background-color: red;
+}
+.border10{
+    border-top: 10px solid gray;
+    border-bottom: 10px solid gray ;
+    width: 225px;
+    height: 205px;
+}
+.box3{
+    background-color: salmon;
+}
+.box4{
+    background-color: green;
+}
+.border10_2{
+    border-left: 10px solid cyan;
+    border-right: 10px solid cyan;
+    width: 205px;
+}
